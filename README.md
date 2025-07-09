@@ -7,7 +7,7 @@
 ### 🚀 我的项目
 
 #### 🛡️ Seal Protocol: 下一代抗量子加密套件
-这是一个旨在实现下一代 TLS 协议的抗量子计算（PQC）加密套件。
+这是一个旨在实现类似于下一代 TLS 协议的抗量子计算（PQC）加密套件，但我们的目标并不是为 TLS 协议做贡献。
 - **[seal-crypto](https://github.com/GlorYouth/seal-crypto)**: 底层加密套件，实现了基础的加密原语。
 - **[seal-flow](https://github.com/GlorYouth/seal-flow)**: 中间层加密流设计，负责处理加密数据的传输。
 - **[seal-kit](https://github.com/GlorYouth/seal-kit)**: 顶层加密套件，将底层和中间层功能封装为易于使用的 API。
