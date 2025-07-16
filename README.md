@@ -8,20 +8,20 @@
 
 #### 🛡️ Seal Protocol: 下一代抗量子加密套件
 这是一个旨在实现类似于下一代 TLS 协议的抗量子计算（PQC）加密套件，但我们的目标并不是为 TLS 协议做贡献。
-- **[seal-crypto](https://github.com/GlorYouth/seal-crypto)**: 底层加密套件，实现了基础的加密原语。
-- **[seal-flow](https://github.com/GlorYouth/seal-flow)**: 中间层加密流设计，负责处理加密数据的传输。
-- **[seal-kit](https://github.com/GlorYouth/seal-kit)**: 顶层加密套件，将底层和中间层功能封装为易于使用的 API。
+- **[seal-crypto](https://github.com/ShaoG-R/seal-crypto)**: 底层加密套件，实现了基础的加密原语。
+- **[seal-flow](https://github.com/ShaoG-R/seal-flow)**: 中间层加密流设计，负责处理加密数据的传输。
+- **[seal-kit](https://github.com/ShaoG-R/seal-kit)**: 顶层加密套件，将底层和中间层功能封装为易于使用的 API。
 
 #### 🐍 Python
-- **[facerec-python](https://github.com/GlorYouth/facerec-python)**: 基于 Python 和树莓派的人脸识别监控系统。
-- **[CRSLab](https://github.com/GlorYouth/CRSLab)**: 一个改进的对话式推荐系统（CRS）开源工具包。
-- **[Excel2FinalShell](https://github.com/GlorYouth/Excel2FinalShell)**: 一个自动将 Excel 中的 SSH 配置批量导入 FinalShell 的脚本。
+- **[facerec-python](https://github.com/ShaoG-R/facerec-python)**: 基于 Python 和树莓派的人脸识别监控系统。
+- **[CRSLab](https://github.com/ShaoG-R/CRSLab)**: 一个改进的对话式推荐系统（CRS）开源工具包。
+- **[Excel2FinalShell](https://github.com/ShaoG-R/Excel2FinalShell)**: 一个自动将 Excel 中的 SSH 配置批量导入 FinalShell 的脚本。
 
 #### 🌐 Web 开发
-- **[admin-dashboard-react](https://github.com/GlorYouth/admin-dashboard-react)**: 使用 Next.js, React 和 TypeScript 构建的现代化后台管理系统前端界面。
+- **[admin-dashboard-react](https://github.com/ShaoG-R/admin-dashboard-react)**: 使用 Next.js, React 和 TypeScript 构建的现代化后台管理系统前端界面。
 
 #### 📦 DevOps
-- **[coreos-installer-build](https://github.com/GlorYouth/coreos-installer-build)**: 用于构建 coreos-installer 的 Dockerfile。
+- **[coreos-installer-build](https://github.com/ShaoG-R/coreos-installer-build)**: 用于构建 coreos-installer 的 Dockerfile。
 
 ---
 
@@ -43,10 +43,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GlorYouth&show_icons=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShaoG-R&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlorYouth&layout=compact&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaoG-R&layout=compact&theme=radical" />
   </a>
 </p>
 
@@ -54,4 +54,4 @@
 
 ### 📫 如何联系我
 
-- 📧 **邮箱**: [admin@gloryouth.com](mailto:admin@gloryouth.com)
+- 📧 **邮箱**: [admin@ShaoG-R.com](mailto:admin@ShaoG-R.com)
