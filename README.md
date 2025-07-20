@@ -55,4 +55,4 @@
 
 ### 📫 如何联系我
 
-- 📧 **邮箱**: [admin@ShaoG-R.com](mailto:admin@ShaoG-R.com)
+- 📧 **邮箱**: [admin@ShaoG-R.com](mailto:admin@GlorYouth.com)
